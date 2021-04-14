@@ -2,8 +2,7 @@ Hi there!!!
 this is extended branch
 merge conglict(main)
 merge conflict(extended)
-<<<<<<< HEAD
 extended branch is having more lines than the main branch
-=======
 extended branch is having same no of lines as the main branch
->>>>>>> main
+
+
